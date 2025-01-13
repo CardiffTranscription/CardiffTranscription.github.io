@@ -1,0 +1,22 @@
+div {
+	text-align: center;	
+}
+h1 {
+	font-family: helvetica;
+	font-size: 200%;
+}
+p {
+	font-family: helvetica;
+	font-size: 100%
+	text-align: center;
+}
+
+a {
+	font-family: helvetica;
+}
+
+img {
+	width: 35%;
+	margin: auto;
+	display: block;
+}
